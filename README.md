@@ -17,3 +17,5 @@ Problems and exercises from http://rosalind.info
 - [Translating RNA into Protein](http://rosalind.info/problems/prot/) - [Solution](Translating_RNA_into_protein/Translating_RNA_into_protein.py)
 
 - [Counting Point Mutations](http://rosalind.info/problems/hamm/) - [Solution](Counting_Point_Mutations/Counting_Point_Mutations.py)
+
+- [Finding a Motif in DNA](http://rosalind.info/problems/subs/) - [Solution](Finding_a_Motif_in_DNA/Finding_a_Motif_in_DNA.py)
